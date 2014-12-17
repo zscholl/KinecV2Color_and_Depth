@@ -1,0 +1,15 @@
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\bin\Debug\ColorAndDepthKinectV2.exe.config
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\bin\Debug\ColorAndDepthKinectV2.exe
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\bin\Debug\ColorAndDepthKinectV2.pdb
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\bin\Debug\Microsoft.Kinect.dll
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\bin\Debug\Microsoft.Kinect.xml
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\ColorAndDepthKinectV2.csprojResolveAssemblyReference.cache
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\MainWindow.baml
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\MainWindow.g.cs
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\App.g.cs
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\ColorAndDepthKinectV2_MarkupCompile.cache
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\ColorAndDepthKinectV2.g.resources
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\ColorAndDepthKinectV2.Properties.Resources.resources
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\ColorAndDepthKinectV2.csproj.GenerateResource.Cache
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\ColorAndDepthKinectV2.exe
+c:\users\hcilab\documents\visual studio 2013\Projects\ColorAndDepthKinectV2\ColorAndDepthKinectV2\obj\Debug\ColorAndDepthKinectV2.pdb
